@@ -1,0 +1,10 @@
+.bg-light{
+    background: green !important;
+    color: white;
+}
+
+.nav-link{
+    color: white !important;
+    font-weight: bold !important;
+    font-size: larger !important;
+}
